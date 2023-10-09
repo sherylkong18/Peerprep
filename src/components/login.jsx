@@ -93,7 +93,6 @@ export default function Login() {
             label="Password"
             placeholder="password"
             size="md"
-            width="lg"
             {...form.getInputProps("password")}
           />
           <Space h="md" />
